@@ -27,11 +27,11 @@ export const links = [
     items: [
       {
         label: "Exchange",
-        href: "https://exchange.becoswap.com",
+        href: "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x5550a00d2B9841d7659563B861E7d765200b9682",
       },
       {
         label: "Liquidity",
-        href: "https://exchange.becoswap.com/#/pool",
+        href: "https://exchange.pancakeswap.finance/#/pool",
       },
     ],
   },
@@ -103,7 +103,7 @@ export const socials = [
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/beco_swap",
+    href: "https://twitter.com/poliex_swap",
   },
 ];
 
